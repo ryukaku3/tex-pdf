@@ -2,8 +2,8 @@
 #
 #
 
-[tex-pdf-git]
-name=CentOS-$releasever - tex-pdf
+[tex-pdf]
+name=CentOS-$releasever - Tex-pdf
 #mirrorlist=http://cabinet1/?release=$releasever&arch=$basearch&repo=os
 baseurl=https://ryukaku3.github.io/tex-pdf/
 gpgcheck=0
