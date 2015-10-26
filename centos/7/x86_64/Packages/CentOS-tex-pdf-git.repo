@@ -1,0 +1,12 @@
+# CentOS-tex-pdf.repo
+#
+#
+
+[tex-pdf-git]
+name=CentOS-$releasever - tex-pdf
+#mirrorlist=http://cabinet1/?release=$releasever&arch=$basearch&repo=os
+baseurl=https://ryukaku3.github.io/tex-pdf/
+gpgcheck=0
+#gpgcheck=1
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+
