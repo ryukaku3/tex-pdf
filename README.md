@@ -1,1 +1,1 @@
-# tex-pdf > gh-pages-dev
+# tex-pdf > gh-pages
