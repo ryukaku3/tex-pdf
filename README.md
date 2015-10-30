@@ -1,18 +1,15 @@
 # tex-pdf > master
 
-<http://codechord.com/2012/01/readme-markdown/>
+### HOW TO USE
 
-# H1見出し
-## H2見出し 
-#### H4見出し
-	
-・インラインのコード。バッククォーテーションで囲う
-
-`$hoge = 1`
-
-・複数行のコード。半角スペースを4つ行頭に
-
-    ←半角スペース4つ　$hoge1 = 1 //1行目
-    ←半角スペース4つ　$hoge2 = 2 //2行目
-    ←半角スペース4つ　$hoge3 = 3 //3行目
+#### Install nii-tex-pdf.repo
+    $ vi /etc/yum.repos.d
+  
+    [tex-pdf-git]
+    name=CentOS-$releasever - tex-pdf
+    baseurl=https://ryukaku3.github.io/tex-pdf/
+    enabled=0
+    gpgcheck=0
+    #gpgcheck=1
+    #gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6
 
