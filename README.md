@@ -15,7 +15,5 @@
 
 ### aaaa
 ```xml
-<myxml>
-   <someElement />  
-</myxml>
+<myxml><someElement /></myxml>
 ```
