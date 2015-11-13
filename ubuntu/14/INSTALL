@@ -1,0 +1,1 @@
+$ sudo apt-get install -y kyotocabinet-utils libkyotocabinet16 libpoppler44 poppler-data poppler-utils
