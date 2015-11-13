@@ -1,0 +1,33 @@
+Package: nii-tex-pdf
+Priority: optional
+Section: libdevel
+Installed-Size: 215
+Maintainer: root <root@unknown>
+Architecture: amd64
+Version: 1.0.3-1
+Filename: ./Package/nii-tex-pdf_1.0.3-1_amd64.deb
+Size: 27410
+MD5sum: 5c99346b5ab16e0f5cc97dcc625f4b73
+SHA1: 316c065d4d9ad0b76d7a35dbaf51f3c87d2f980e
+SHA256: ce91a32d9bdaa5306ff7598da384ffc820694839bbe579c5bbd556d37cc0af9d
+SHA512: d46ab1f1822ab192102798aad6084c7a0f19a11ad1583638cfe9984747365fb72914bc376675ffa8003d52d2b6ef7d005b51c91d057806e024bc0995889583fc
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+Homepage: <insert the upstream URL, if relevant>
+
+Package: nii-tex-pdf-kyotocabinet-perl
+Priority: extra
+Section: checkinstall
+Installed-Size: 244
+Maintainer: root@cabinet-ubuntu
+Architecture: amd64
+Version: 1.20-1
+Provides: nii-tex-pdf-kyotocabinet-perl
+Filename: ./Package/nii-tex-pdf-kyotocabinet-perl_1.20-1_amd64.deb
+Size: 39600
+MD5sum: 086064fc834995091b1d57657d1acffa
+SHA1: c7d83e536cb3bf9391f6e39e3231a6731245aac0
+SHA256: 6c92f13b8f47bba07ddfa8e38dd9899d96b68c29597d115a25f6816002f4c3e8
+SHA512: 2d73d8f0b1fb6d122c29657a24cea88ec3773e5928d4d72d47eb00cedfc6c20243f4d91d21b8d84bfbba646ada8568e3d6e8325fdee9106a2bc1db63e5147b4f
+Description: Package created with checkinstall 1.6.2
+
