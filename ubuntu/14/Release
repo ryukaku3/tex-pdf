@@ -1,0 +1,25 @@
+Date: Fri, 13 Nov 2015 11:01:09 UTC
+MD5Sum:
+ fef39f7fd71d1f140c5edfbb26996353             3379 Contents-amd64
+ 706920b80afdf690aa09167f453c311b              580 Contents-amd64.gz
+ 36241edb7b8550841e6bf4bb893d1cf3             1291 Packages
+ 958fa42771cc9565fa1edf3eb0f19b12              730 Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+SHA1:
+ 845989e222cdfba836f7c8f6a7e1c12cec57db12             3379 Contents-amd64
+ 68c8eecfa40c3a8a3875ec2c591b4742123de5d4              580 Contents-amd64.gz
+ fecbfceef1a772d8da55d51afb1371c58e5a5077             1291 Packages
+ 0dc089f54ecae537f3753e48d71e48b4edc23065              730 Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+SHA256:
+ fdf3c5bb669cccc6a06713d9390171050e843ed859396dc32dce62a261e10df6             3379 Contents-amd64
+ 6a09fb4d1d94c884574ddf0d460e548a299a21b85cbfc623f2635369d52238f2              580 Contents-amd64.gz
+ 80fd16ef9c9bd171b56c78f8c51f23f8e0e5ff7333a6c2a21f72aca55b0c15aa             1291 Packages
+ 199925e7e3adc72d2e2db5087cc496d34a2e4c0aa396389d10bb9e598b438763              730 Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+SHA512:
+ 188d7e3461b67c2d6324026c629e44d273f1c0e6f0da446f85d1487a3cd2fe29a6dd61bb969185553dcdf06c5ca6737455abf2b1265cdbfdfe7962a224f05a23             3379 Contents-amd64
+ 7469ff97b1ba7ed22d46a04d796e888df4eece5cee46e1ccb81b980ee2c44fbd33c6916890efa94c7ff6173ccd06701bf1740c674b615839d45588b83a184411              580 Contents-amd64.gz
+ 0186b04c8c3cdf3b337af9eb0ba1381910404d8ff29f17394e6482acfde43506cbfeff42f826a80376431f693794f3315334d31193ae4ed7622e7a2d8969ef8e             1291 Packages
+ de6c29ac4a8b08bef67914528b5a3917b091d17fc1d3bf392f574cc243950f827d65587fdf7c8daeb5c5b1d1bc01d03ce6a91520d65550659e71eeaca6f6d381              730 Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
